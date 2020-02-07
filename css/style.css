@@ -48,7 +48,8 @@ footer p{
 
 
 nav section img:hover{
-    transform:scale(1.1);
+        transition: 0.3s;
+        filter: invert(40%);
 }
 
 span{
